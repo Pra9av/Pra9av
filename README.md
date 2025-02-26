@@ -88,7 +88,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pra9av&theme=nightowl&hide_border=false" alt="Pra9av streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pra9av&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Pra9av/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
