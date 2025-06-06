@@ -5,7 +5,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 
-<img align="right" width=200px alt="Unicorn" src="public/gifs/program 1.gif"/>
+<img align="right" width=200px alt="Unicorn" src="giff"/>
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development.My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
